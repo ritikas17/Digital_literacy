@@ -51,7 +51,7 @@ Created a one-page infographic using **Canva** covering five core digital litera
 Set up professional profiles on three platforms to build a foundational digital presence:
 
 | Platform | Purpose | 
-|---|---|---|
+|---|---|
 | **ResearchGate** | Share research papers, Follow ongoing studies | 
 | **LinkedIn** | Professional networking, internships | 
 | **Kaggle** | Data science learning and competitions | 
