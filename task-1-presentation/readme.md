@@ -1,1 +1,5 @@
+Task 1:
+For this task, I used Canva to design my one-page infographic on digital literacy. Canva is a user-friendly tool that provides various templates, icons, and design elements, which made it easy to create an attractive and organized visual resource.
+My design explains the concept of digital literacy and highlights its importance for students in today’s digital world. It includes sections on useful digital tools such as Google Docs and Canva, safe internet practices like protecting passwords and avoiding suspicious links, professional online presence, and proper email etiquette. I used different colors, icons, and headings to make the information easy to read and visually appealing.
+One thing I found interesting was how design choices like color combinations and layout can make information more engaging and understandable. However, I also found it slightly difficult to fit all the information into a single page without making it look crowded. Overall, this activity helped me understand both digital literacy and basic design skills.
 
