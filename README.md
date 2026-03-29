@@ -70,6 +70,8 @@ Completed the beginner-level *"Solve Me First"* challenge in Python 3. This intr
 **Part B – Google Workspace (Google Forms):**
 Created a **Digital Literacy Awareness Quiz** with 5 questions for batchmates, including multiple choice and short answer questions. Responses are collected automatically in a linked Google Sheet.
 
+Google Form link:https://docs.google.com/forms/d/e/1FAIpQLSe7h3C1f_AfznvX5sspoUCFkMwf4zRu_AVgtPbwEIGOxLcZWA/viewform?usp=publish-editor
+
 
 ---
 
